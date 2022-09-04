@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PatikaLoginSignUp</string>
+    <string name="lets_get_started">Let\'s Get Started</string>
+    <string name="grow_together">Grow Together</string>
+    <string name="join_now">Join Now</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="enter_your">Enter Your Username &amp; Password</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgotten_password">Forgotten Password?</string>
+    <string name="create_new_account">Or Create a New Account</string>
+    <string name="back_button">Back Button</string>
+    <string name="create_account">Create \n Account :)</string>
+    <string name="enter_email_id">Enter Email Id</string>
+    <string name="create_username">Create Username</string>
+    <string name="create_password">Create Password</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
